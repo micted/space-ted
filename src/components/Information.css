@@ -1,0 +1,41 @@
+.information {
+    padding: 4rem;
+    background: rgb(235, 235, 235);
+}
+
+h1 {
+  text-align: center;
+  font-size: 30px;
+}
+
+.paragraph {
+  font-size: 1.6rem;
+  margin-top: 3rem;
+  font-family: Agency FB;
+  
+  
+}
+
+@media screen and (max-width: 960px) {
+    h1 {
+      
+      font-size: 22px;
+    
+    } 
+
+    .paragraph {
+      font-size: 1.4rem;
+    }
+  }
+
+ @media screen and (max-width: 768px) {
+    h1 {
+      
+      font-size: 20px;
+    
+    } 
+
+    .paragraph {
+      font-size: 1.3rem;
+    }
+  }
