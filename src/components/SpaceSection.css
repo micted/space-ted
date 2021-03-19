@@ -44,8 +44,7 @@ video {
 }
 @media screen and (max-width: 960px) {
     .space-container > h1 {
-    font-size: 2.5em;
-    margin-top: -150px;
+    font-size: 2.5em;   
     font-family: 'Saira Stencil One', cursive;
     
 }
