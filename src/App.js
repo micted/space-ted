@@ -5,7 +5,7 @@ import './App.css';
 import Home from './components/pages/Home';
 import Planets from './components/pages/Planets';
 import Articles from './components/pages/Articles';
-import SignUp from './components/pages/SignUp';
+//import SignUp from './components/pages/SignUp';
 function App() {
   return (
    <>

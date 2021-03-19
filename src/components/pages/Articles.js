@@ -5,7 +5,7 @@ import Footer from '../Footer';
 import '../Information';
 import Information from '../Information';
 
-export default function Articles () {
+function Articles () {
   return (
     <>
        <ArticleSection/>
@@ -15,3 +15,4 @@ export default function Articles () {
     </>
    );
 }
+export default Articles

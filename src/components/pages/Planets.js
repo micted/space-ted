@@ -4,7 +4,7 @@ import PlanetsSection from '../PlanetsSection';
 import Footer from '../Footer';
 
 
-export default function Planets () {
+ function Planets () {
   return (
     <>
        <PlanetsSection/>
@@ -14,6 +14,4 @@ export default function Planets () {
     </>
    );
 }
-
-
-
+export default Planets
