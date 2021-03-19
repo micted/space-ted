@@ -105,14 +105,14 @@ h1 {
 @media screen and (max-width: 960px) {
   .cards__item__text {
     
-    font-size: 14px;
+    font-size: 18px;
     font-family: 'Saira Stencil One', cursive;
   } 
 }
 @media screen and (max-width: 768px) {
    .cards__item__text {
     
-    font-size: 12px;
+    font-size: 14px;
     font-family: 'Saira Stencil One', cursive;
   } 
 }
