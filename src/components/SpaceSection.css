@@ -46,6 +46,7 @@ video {
     .space-container > h1 {
     font-size: 2.4em;
     margin-top: -150px;
+    font-family: 'Racing Sans One', cursive;
     
 }
    .space-container > p {
@@ -58,6 +59,7 @@ video {
     .space-container > h1 {
     font-size: 1.8em;
     margin-top: -100px;
+    font-family: 'Racing Sans One', cursive;
     
 }
 
