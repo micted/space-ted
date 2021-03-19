@@ -106,10 +106,16 @@ h1 {
   .cards__item__text {
     
     font-size: 14px;
-  
+    font-family: 'Saira Stencil One', cursive;
   } 
 }
-
+@media screen and (max-width: 768px) {
+   .cards__item__text {
+    
+    font-size: 12px;
+    font-family: 'Saira Stencil One', cursive;
+  } 
+}
 @media only screen and (min-width: 1200px) {
   .content__blog__container {
     width: 84%;
