@@ -18,14 +18,14 @@ video {
     
 }
 
-.heading {
+.space-container > h1 {
     font-size: 3.5rem;
     color: #fff;
     margin-top: -100px;
     font-family: SPACE MISSION;
 }
 
-.paragraph {
+.space-container > p {
     margin-top: 8px;
     color: #fff;
     font-size: 28px;
