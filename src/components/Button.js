@@ -6,6 +6,8 @@ const STYLES = ['btn--primary', 'btn--outline', 'btn--test'];
 
 const SIZES = ['btn--medium', 'btn--large'];
 
+/* Button asigned to planets.*/
+ 
 export const Button = ({
   children,
   type,
@@ -19,8 +21,9 @@ export const Button = ({
 
   const checkButtonSize = SIZES.includes(buttonSize) ? buttonSize : SIZES[0];
 
+/*In order to assign it for sign up edit the link tag below */
   return (
-    <Link to='/sign-up' className='btn-mobile'>
+    <Link to='/planets' className='btn-mobile'>
       <button
         className={`btn ${checkButtonStyle} ${checkButtonSize}`}
         onClick={onClick}

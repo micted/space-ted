@@ -15,12 +15,14 @@ video {
     align-items: center;
     box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.2);
     object-fit: contain;
+    
 }
 
 .space-container > h1 {
     font-size: 3.5rem;
     color: #fff;
     margin-top: -100px;
+    font-family: SPACE MISSION;
 }
 
 .space-container > p {
@@ -45,9 +47,11 @@ video {
     .space-container > h1 {
     font-size: 2.4em;
     margin-top: -150px;
+    
 }
    .space-container > p {
     font-size: 19px;
+    
 }
 }
 
@@ -55,11 +59,12 @@ video {
     .space-container > h1 {
     font-size: 1.8em;
     margin-top: -100px;
+    
 }
 
  .space-container > p {
     font-size: 16px;
-        
+    
 }   
 .btn-mobile {
     display: block;

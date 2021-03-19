@@ -1,3 +1,20 @@
+@font-face {
+  font-family: 'SPACE MISSION';
+  src: local('SPACE MISSION'), url(./fonts/SPACE\ MISSION.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Robot Reaver';
+    font-weight: 900;
+    src: local('Robot Reaver'), url(./fonts/Robot\ Reavers.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Caviar Dream';
+    font-weight: 900;
+    src: local('Caviar Dream'), url(./fonts/Caviar\ Dreams.ttf) format('truetype');
+}
+
 * {
     box-sizing: border-box;
     margin: 0;
