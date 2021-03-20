@@ -20,11 +20,12 @@ h1 {
     h1 {
       
       font-size: 22px;
+         font-family: 'Saira Stencil One', cursive;
     
     } 
 
     .paragraph {
-      font-size: 1.4rem;
+      font-size: 1.3rem;
     }
   }
 
@@ -36,6 +37,6 @@ h1 {
     } 
 
     .paragraph {
-      font-size: 1.3rem;
+      font-size: 1.2rem;
     }
   }
