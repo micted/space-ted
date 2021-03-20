@@ -128,7 +128,10 @@
     .link-text {
     font-family: 'Saira Stencil One', cursive;  
 }
-    
+   .website-rights {
+        font-size: 15px;
+        font-family: 'Saira Stencil One', cursive;  
+    }  
 }
 
 @media screen and (max-width: 820px) {
@@ -154,5 +157,6 @@
     }
     .website-rights {
         font-size: 12px;
+        font-family: 'Saira Stencil One', cursive;  
     }
 }
