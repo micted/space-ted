@@ -6,7 +6,7 @@ function Footer() {
     return (
         <div className='footer-container'>
             <section className="footer-subscription">
-                <p className="footer-social-heading">
+                <p>
                     Follow us on our social media pages to learn more about space science facts.
                 </p>
             </section>
