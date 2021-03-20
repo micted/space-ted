@@ -34,12 +34,12 @@ video {
 
 @media screen and (max-width: 960px) {
     .articles-container > h1 {
-    font-size: 2.4em;
+    font-size: 2.5em;
     margin-top: -150px;
     font-family: 'Saira Stencil One', cursive;
 }
    .articles-container > p {
-    font-size: 16px;
+    font-size: 13px;
     text-align: center;
     font-family: 'Saira Stencil One', cursive;
 }
@@ -54,7 +54,7 @@ video {
 }
 
  .articles-container > p {
-    font-size: 16px;
+    font-size: 13px;
       font-family: 'Saira Stencil One', cursive;
         
 }   
