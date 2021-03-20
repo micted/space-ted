@@ -120,7 +120,7 @@
 }
 @media screen and (max-width: 960px) {
     .footer -subscription > p {
-        font-family: Robot Reavers;
+        font-family: 'Saira Stencil One', cursive;
         font-size: 0.7rem;
     }
 }
