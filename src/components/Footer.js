@@ -6,9 +6,9 @@ function Footer() {
     return (
         <div className='footer-container'>
             <section className="footer-subscription">
-                <p>
+                <p2>
                     Follow us on our social media pages to learn more about space science facts.
-                </p>
+                </p2>
             </section>
             <div className="footer-links">
                 <div className="footer-link-wrapper">
