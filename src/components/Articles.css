@@ -36,10 +36,12 @@ video {
     .articles-container > h1 {
     font-size: 2.4em;
     margin-top: -150px;
+    font-family: 'Saira Stencil One', cursive;
 }
    .articles-container > p {
     font-size: 19px;
     text-align: center;
+    font-family: 'Saira Stencil One', cursive;
 }
 }
 
@@ -48,10 +50,12 @@ video {
     font-size: 1.8em;
     margin-top: -100px;
     text-align: center;
+         font-family: 'Saira Stencil One', cursive;
 }
 
  .articles-container > p {
     font-size: 16px;
+      font-family: 'Saira Stencil One', cursive;
         
 }   
 
