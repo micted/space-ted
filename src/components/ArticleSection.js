@@ -8,7 +8,7 @@ function ArticleSection() {
         <div className='articles-container'> 
       <h1>SPACE SCIENCE &amp; TECHNOLOGY</h1> 
         <video src="/videos/rocket.mp4" autoPlay loop muted/>    
-      <p>Learn more about emerging technologies in the space industry</p>
+      <p1>Learn more about emerging technologies in the space industry</p1>
     </div>
     )
 }
