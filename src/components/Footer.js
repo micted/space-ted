@@ -38,24 +38,24 @@ function Footer() {
                     </div>
                      <small className="website-rights">SPACE-TED DEVELOPED BY MICTED © 2021</small>
                      <div className="social-icons">
-                         <Link className="social-icon-link telegram"
-                         to='/'
-                         target='_blank'
+                         <a className="social-icon-link telegram"
+                         href="https://t.me/spaceted"
+                         
                          aria-label='Telegram'>
                              <i class="fab fa-telegram"></i>
-                         </Link>
-                         <Link className="social-icon-link facebook"
-                         to='/'
-                         target='_blank'
+                         </a>
+                         <a className="social-icon-link facebook"
+                         href=""
+                        
                          aria-label='Facebook'>
                              <i className='fab fa-facebook-f' />
-                         </Link>
-                         <Link className="social-icon-link youtube"
-                         to='/'
-                         target='_blank'
+                         </a>
+                         <a className="social-icon-link youtube"
+                         href=""
+                         
                          aria-label='YouTube'>
                              <i class="fab fa-youtube"></i>
-                         </Link>
+                         </a>
                      </div>
                 </div>
             </section>
