@@ -76,9 +76,6 @@ video {
 
 .btn {
     width: 100%;
-}
- @media screen and (max-width: 960px) {
-     .btn {    
-    font-family: 'Saira Stencil One', cursive;
-     }
+     font-family: 'Saira Stencil One', cursive;
+} 
 }
