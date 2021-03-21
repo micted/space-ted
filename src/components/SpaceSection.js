@@ -8,7 +8,7 @@ function SpaceSection() {
         <div className='space-container'>
             <video src="/videos/GALAXY.mp4" autoPlay loop muted/>            
            <h1>WELCOME to SPACE-TED</h1>
-            <p>Explore the infinty stars!</p>
+            <p>Explore the infinity stars!</p>
             <div className='space-btns'>
                 <Button 
                   className='btns'
